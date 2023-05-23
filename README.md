@@ -6,10 +6,11 @@ Things to be checked before sending PR / PR ready
 - [ ] Test all the cases and edge cases of your changes. 
 - [ ] Breaking changes testing (Test all side effects).
 - [ ] Confirm you haven’t leaked any sensitive information of this project (console logs, responses, env variables etc).
-- [ ] Confirm that you are folowing ecoBees code quality standard.
+- [ ] Confirm that you are folowing **ecoBees code quality** standard.
 - :warning: Import orders.
 - :warning: Indentations and Lintings.
 - :warning: Folder structures.
+- :warning: consistency of patterns and principles.
 - :warning: Comments and naming conventions.
 - :warning: Error handling *
 - :warning: Events and actions*  (eg: types and IDs on button).
