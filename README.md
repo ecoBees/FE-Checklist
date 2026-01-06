@@ -18,3 +18,6 @@ Things to be checked before sending PR / PR ready
 - [ ] Responsive UI across all screen and browser cross compatibility.
 - [ ] Multiple browsers functionality/design testing. 
 - [ ] Double validation of the feature you are working on (BE/FE).
+- [ ] After all checks are done, check the linting of the project you are working on and make sure it passes the lint properly.
+- [ ] Verify the branch naming.
+- [ ] Verify if commit message is correct.
